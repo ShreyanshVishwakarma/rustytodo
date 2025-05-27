@@ -1,0 +1,13 @@
+
+{
+  "user_name": "ExampleUser",
+  "tasks": [
+    "Buy groceries",
+    "Finish report",
+    "Call John"
+  ],
+  "completed": [
+    "Walk the dog",
+    "Read a book"
+ ]
+}
