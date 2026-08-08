@@ -1,1 +1,1 @@
-{"user_name":"ExampleUser","tasks":["Buy groceries","Finish report","Call John","Complete the program!","Do homework"],"completed":["Walk the dog","Read a book"]}
+{"user_name":"ExampleUser","tasks":[],"completed":["Walk the dog","Call John","Do homework"]}
